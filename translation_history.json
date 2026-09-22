@@ -1,0 +1,915 @@
+[
+  {
+    "word": "perseverance",
+    "hindi": "दृढ़ता",
+    "hinglish": "Dridhataa",
+    "ipa": "ˌpɜːsɪˈvɪərəns",
+    "timestamp": "2026-09-22 09:20:53",
+    "favorite": false,
+    "report": {
+      "word": "perseverance",
+      "timestamp": "2026-09-22 09:20:53",
+      "translation": {
+        "translated_text": "दृढ़ता",
+        "hinglish": "Dridhataa",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "ˌpɜːsɪˈvɪərəns",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "Persistence in doing something despite difficulty or delay in achieving success.",
+                "example": "His perseverance helped him overcome all hurdles and succeed.",
+                "synonyms": [
+                  "persistence",
+                  "tenacity",
+                  "determination",
+                  "grit",
+                  "steadfastness"
+                ],
+                "antonyms": [
+                  "hesitation",
+                  "apathy",
+                  "giving up",
+                  "irresolution"
+                ]
+              }
+            ],
+            "synonyms": [
+              "persistence",
+              "tenacity",
+              "determination",
+              "grit",
+              "steadfastness"
+            ],
+            "antonyms": [
+              "hesitation",
+              "apathy",
+              "giving up",
+              "irresolution"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "persistence",
+          "perseveration",
+          "tenacity",
+          "determination",
+          "grit",
+          "steadfastness"
+        ],
+        "antonyms": [
+          "hesitation",
+          "apathy",
+          "giving up",
+          "irresolution"
+        ],
+        "rhymes": [
+          "coherence",
+          "appearance",
+          "adherence",
+          "interference",
+          "incoherence",
+          "clearance",
+          "disappearance",
+          "first appearance"
+        ],
+        "associations": [
+          "persevere",
+          "sportsmanship",
+          "adversity",
+          "juneau",
+          "dedication",
+          "diligence",
+          "determination",
+          "macro"
+        ],
+        "describing_adjectives": [
+          "great",
+          "indomitable",
+          "final",
+          "steady",
+          "dogged",
+          "much",
+          "patient",
+          "untiring"
+        ]
+      },
+      "hinglish": "Dridhataa",
+      "hindi_examples": [
+        {
+          "english": "His perseverance helped him overcome all hurdles and succeed.",
+          "hindi": "उनकी दृढ़ता ने उन्हें सभी बाधाओं को पार करने और सफल होने में मदद की।",
+          "hinglish": "Unakee dridhataa ne unhen sabhee baadhaaon ko paar karane aur saphal hone men madad kee।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "innovation",
+    "hindi": "नवाचार",
+    "hinglish": "Navaachaar",
+    "ipa": "ˌɪnəˈveɪʃən",
+    "timestamp": "2026-09-22 09:19:37",
+    "favorite": false,
+    "report": {
+      "word": "innovation",
+      "timestamp": "2026-09-22 09:19:37",
+      "translation": {
+        "translated_text": "नवाचार",
+        "hinglish": "Navaachaar",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "ˌɪnəˈveɪʃən",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "A new method, idea, product, or introducing new techniques.",
+                "example": "Technological innovation is shaping the modern world.",
+                "synonyms": [
+                  "invention",
+                  "novelty",
+                  "advancement",
+                  "creativity",
+                  "originality"
+                ],
+                "antonyms": [
+                  "stagnation",
+                  "tradition",
+                  "outdatedness"
+                ]
+              }
+            ],
+            "synonyms": [
+              "invention",
+              "novelty",
+              "advancement",
+              "creativity",
+              "originality"
+            ],
+            "antonyms": [
+              "stagnation",
+              "tradition",
+              "outdatedness"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "conception",
+          "excogitation",
+          "design",
+          "invention",
+          "novelty",
+          "advancement",
+          "creativity",
+          "originality"
+        ],
+        "antonyms": [
+          "stagnation",
+          "tradition",
+          "outdatedness"
+        ],
+        "rhymes": [
+          "trepidation",
+          "indignation",
+          "exhilaration",
+          "veneration",
+          "elation",
+          "condemnation",
+          "gratification",
+          "inclination",
+          "creation",
+          "relation",
+          "foundation"
+        ],
+        "associations": [
+          "entrepreneurship",
+          "competitiveness",
+          "creativity",
+          "innovations",
+          "entrepreneurs",
+          "innovative",
+          "technological",
+          "sustainability"
+        ],
+        "describing_adjectives": [
+          "technological",
+          "technical",
+          "important",
+          "recent",
+          "major",
+          "radical",
+          "financial",
+          "educational"
+        ]
+      },
+      "hinglish": "Navaachaar",
+      "hindi_examples": [
+        {
+          "english": "Technological innovation is shaping the modern world.",
+          "hindi": "तकनीकी नवाचार आधुनिक दुनिया को आकार दे रहा है।",
+          "hinglish": "Takaneekee navaachaar aadhunik duniyaa ko aakaar de rahaa hai।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "courage",
+    "hindi": "साहस",
+    "hinglish": "Saahas",
+    "ipa": "ˈkʌrɪdʒ",
+    "timestamp": "2026-09-22 09:09:30",
+    "favorite": false,
+    "report": {
+      "word": "courage",
+      "timestamp": "2026-09-22 09:09:30",
+      "translation": {
+        "translated_text": "साहस",
+        "hinglish": "Saahas",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "ˈkʌrɪdʒ",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "The ability to do something that frightens one; bravery.",
+                "example": "She showed immense courage in the face of adversity.",
+                "synonyms": [
+                  "bravery",
+                  "valor",
+                  "fearlessness",
+                  "audacity",
+                  "heroism"
+                ],
+                "antonyms": [
+                  "cowardice",
+                  "fear",
+                  "timidity",
+                  "faint-heartedness"
+                ]
+              }
+            ],
+            "synonyms": [
+              "bravery",
+              "valor",
+              "fearlessness",
+              "audacity",
+              "heroism"
+            ],
+            "antonyms": [
+              "cowardice",
+              "fear",
+              "timidity",
+              "faint-heartedness"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "bravery",
+          "courageousness",
+          "valor",
+          "fearlessness",
+          "audacity",
+          "heroism"
+        ],
+        "antonyms": [
+          "cowardice",
+          "cowardliness",
+          "fear",
+          "timidity",
+          "faint-heartedness"
+        ],
+        "rhymes": [
+          "encourage",
+          "discourage",
+          "stirrage",
+          "burrage"
+        ],
+        "associations": [
+          "tenacity",
+          "cowardly",
+          "fortitude",
+          "perseverance",
+          "heroism",
+          "bravery",
+          "valor",
+          "determination"
+        ],
+        "describing_adjectives": [
+          "moral",
+          "great",
+          "more",
+          "personal",
+          "physical",
+          "good",
+          "enough",
+          "much"
+        ]
+      },
+      "hinglish": "Saahas",
+      "hindi_examples": [
+        {
+          "english": "She showed immense courage in the face of adversity.",
+          "hindi": "उन्होंने विपरीत परिस्थितियों का सामना करते हुए अदम्य साहस दिखाया।",
+          "hinglish": "Unhonne vipareet paristhitiyon kaa saamanaa karate hue adamy saahas dikhaayaa।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "curiosity",
+    "hindi": "जिज्ञासा",
+    "hinglish": "Jijnyaasaa",
+    "ipa": "",
+    "timestamp": "2026-09-22 09:00:07",
+    "favorite": false,
+    "report": {
+      "word": "curiosity",
+      "timestamp": "2026-09-22 09:00:07",
+      "translation": {
+        "translated_text": "जिज्ञासा",
+        "hinglish": "Jijnyaasaa",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "A strong desire to know or learn something.",
+                "example": "Curiosity drives scientific exploration and learning.",
+                "synonyms": [
+                  "inquisitiveness",
+                  "interest",
+                  "eagerness"
+                ],
+                "antonyms": [
+                  "indifference",
+                  "disinterest",
+                  "apathy"
+                ]
+              }
+            ],
+            "synonyms": [
+              "inquisitiveness",
+              "interest",
+              "eagerness"
+            ],
+            "antonyms": [
+              "indifference",
+              "disinterest",
+              "apathy"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "oddity",
+          "peculiarity",
+          "oddment",
+          "curio",
+          "rarity",
+          "wonder",
+          "inquisitiveness",
+          "interest",
+          "eagerness"
+        ],
+        "antonyms": [
+          "indifference",
+          "disinterest",
+          "apathy"
+        ],
+        "rhymes": [
+          "animosity",
+          "atrocity",
+          "ferocity",
+          "reciprocity",
+          "paucity",
+          "velocity",
+          "virtuosity",
+          "monstrosity"
+        ],
+        "associations": [
+          "aeolis",
+          "piqued",
+          "rover",
+          "aroused",
+          "martian",
+          "mars",
+          "gale",
+          "dickens"
+        ],
+        "describing_adjectives": [
+          "intellectual",
+          "great",
+          "natural",
+          "idle",
+          "mere",
+          "much",
+          "scientific",
+          "insatiable"
+        ]
+      },
+      "hinglish": "Jijnyaasaa",
+      "hindi_examples": [
+        {
+          "english": "Curiosity drives scientific exploration and learning.",
+          "hindi": "जिज्ञासा वैज्ञानिक अन्वेषण और सीखने को प्रेरित करती है।",
+          "hinglish": "Jijnyaasaa vaijnyaanik anveshan aur seekhane ko prerit karatee hai।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "resilience",
+    "hindi": "लचीलापन",
+    "hinglish": "Lacheelaapan",
+    "ipa": "",
+    "timestamp": "2026-09-22 08:59:55",
+    "favorite": false,
+    "report": {
+      "word": "resilience",
+      "timestamp": "2026-09-22 08:59:55",
+      "translation": {
+        "translated_text": "लचीलापन",
+        "hinglish": "Lacheelaapan",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "The capacity to recover quickly from difficulties; toughness.",
+                "example": "The community displayed remarkable resilience after the disaster.",
+                "synonyms": [
+                  "toughness",
+                  "flexibility",
+                  "elasticity",
+                  "strength"
+                ],
+                "antonyms": [
+                  "fragility",
+                  "vulnerability",
+                  "weakness"
+                ]
+              }
+            ],
+            "synonyms": [
+              "toughness",
+              "flexibility",
+              "elasticity",
+              "strength"
+            ],
+            "antonyms": [
+              "fragility",
+              "vulnerability",
+              "weakness"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "buoyancy",
+          "irrepressibility",
+          "resiliency",
+          "toughness",
+          "flexibility",
+          "elasticity",
+          "strength"
+        ],
+        "antonyms": [
+          "fragility",
+          "vulnerability",
+          "weakness"
+        ],
+        "rhymes": [
+          "brilliance"
+        ],
+        "associations": [
+          "adversity",
+          "resilient",
+          "coping",
+          "shocks",
+          "preparedness",
+          "vulnerability",
+          "adaptive",
+          "ecosystem"
+        ],
+        "describing_adjectives": [
+          "remarkable",
+          "greater",
+          "national",
+          "great",
+          "high",
+          "emotional",
+          "elastic",
+          "natural"
+        ]
+      },
+      "hinglish": "Lacheelaapan",
+      "hindi_examples": [
+        {
+          "english": "The community displayed remarkable resilience after the disaster.",
+          "hindi": "आपदा के बाद समुदाय ने उल्लेखनीय लचीलापन प्रदर्शित किया।",
+          "hinglish": "Aapadaa ke baad samudaay ne ullekhaneey lacheelaapan pradarshit kiyaa।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "gratitude",
+    "hindi": "कृतज्ञता",
+    "hinglish": "Kritajnyataa",
+    "ipa": "",
+    "timestamp": "2026-09-22 08:59:45",
+    "favorite": false,
+    "report": {
+      "word": "gratitude",
+      "timestamp": "2026-09-22 08:59:45",
+      "translation": {
+        "translated_text": "कृतज्ञता",
+        "hinglish": "Kritajnyataa",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "The quality of being thankful; readiness to show appreciation.",
+                "example": "He expressed his deep gratitude for all the support.",
+                "synonyms": [
+                  "thankfulness",
+                  "appreciation",
+                  "gratefulness"
+                ],
+                "antonyms": [
+                  "ungratefulness",
+                  "thanklessness"
+                ]
+              }
+            ],
+            "synonyms": [
+              "thankfulness",
+              "appreciation",
+              "gratefulness"
+            ],
+            "antonyms": [
+              "ungratefulness",
+              "thanklessness"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "thankfulness",
+          "appreciation",
+          "gratefulness"
+        ],
+        "antonyms": [
+          "ingratitude",
+          "ungratefulness",
+          "thanklessness"
+        ],
+        "rhymes": [
+          "shrewd",
+          "crude",
+          "subdued",
+          "fortitude",
+          "lewd",
+          "brood",
+          "elude",
+          "aptitude"
+        ],
+        "associations": [
+          "kindness",
+          "generosity",
+          "grateful",
+          "admiration",
+          "thank",
+          "appreciation",
+          "hospitality",
+          "saving"
+        ],
+        "describing_adjectives": [
+          "deep",
+          "sincere",
+          "deepest",
+          "much",
+          "profound",
+          "special",
+          "heartfelt",
+          "eternal"
+        ]
+      },
+      "hinglish": "Kritajnyataa",
+      "hindi_examples": [
+        {
+          "english": "He expressed his deep gratitude for all the support.",
+          "hindi": "उन्होंने सभी के समर्थन के लिए गहरा आभार व्यक्त किया।",
+          "hinglish": "Unhonne sabhee ke samarthan ke lie gaharaa aabhaar vyakt kiyaa।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "compassion",
+    "hindi": "करुणा",
+    "hinglish": "Karunaa",
+    "ipa": "",
+    "timestamp": "2026-09-22 08:59:23",
+    "favorite": false,
+    "report": {
+      "word": "compassion",
+      "timestamp": "2026-09-22 08:59:23",
+      "translation": {
+        "translated_text": "करुणा",
+        "hinglish": "Karunaa",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "noun",
+            "definitions": [
+              {
+                "definition": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+                "example": "He treated everyone with kindness and deep compassion.",
+                "synonyms": [
+                  "empathy",
+                  "sympathy",
+                  "kindness",
+                  "benevolence"
+                ],
+                "antonyms": [
+                  "cruelty",
+                  "callousness",
+                  "indifference"
+                ]
+              }
+            ],
+            "synonyms": [
+              "empathy",
+              "sympathy",
+              "kindness",
+              "benevolence"
+            ],
+            "antonyms": [
+              "cruelty",
+              "callousness",
+              "indifference"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "pity",
+          "compassionateness",
+          "empathy",
+          "sympathy",
+          "kindness",
+          "benevolence"
+        ],
+        "antonyms": [
+          "cruelty",
+          "callousness",
+          "indifference"
+        ],
+        "rhymes": [
+          "passion",
+          "ashen",
+          "fashion",
+          "ration",
+          "impassion",
+          "sation",
+          "ascian",
+          "field ration"
+        ],
+        "associations": [
+          "bodhisattva",
+          "empathy",
+          "humility",
+          "altruism",
+          "kindness",
+          "compassionate",
+          "mantra",
+          "dalai"
+        ],
+        "describing_adjectives": [
+          "great",
+          "deep",
+          "human",
+          "divine",
+          "more",
+          "infinite",
+          "much",
+          "little"
+        ]
+      },
+      "hinglish": "Karunaa",
+      "hindi_examples": [
+        {
+          "english": "He treated everyone with kindness and deep compassion.",
+          "hindi": "उन्होंने सभी के साथ दयालुता और गहरी करुणा का व्यवहार किया।",
+          "hinglish": "Unhonne sabhee ke saath dayaalutaa aur gaharee karunaa kaa vyavahaar kiyaa।"
+        }
+      ],
+      "is_complete": true
+    }
+  },
+  {
+    "word": "eloquent",
+    "hindi": "सुवक्ता",
+    "hinglish": "Suvaktaa",
+    "ipa": "",
+    "timestamp": "2026-09-22 08:58:23",
+    "favorite": false,
+    "report": {
+      "word": "eloquent",
+      "timestamp": "2026-09-22 08:58:23",
+      "translation": {
+        "translated_text": "सुवक्ता",
+        "hinglish": "Suvaktaa",
+        "match_quality": 0,
+        "alternatives": [],
+        "source_lang": "en",
+        "target_lang": "hi",
+        "success": true
+      },
+      "dictionary": {
+        "phonetics": [],
+        "ipa": "",
+        "audio_url": "",
+        "meanings": [
+          {
+            "part_of_speech": "adjective",
+            "definitions": [
+              {
+                "definition": "Fluent or persuasive in speaking or writing.",
+                "example": "She gave an eloquent speech that moved the entire audience.",
+                "synonyms": [
+                  "articulate",
+                  "fluent",
+                  "persuasive",
+                  "expressive"
+                ],
+                "antonyms": [
+                  "inarticulate",
+                  "hesitant",
+                  "mute"
+                ]
+              }
+            ],
+            "synonyms": [
+              "articulate",
+              "fluent",
+              "persuasive",
+              "expressive"
+            ],
+            "antonyms": [
+              "inarticulate",
+              "hesitant",
+              "mute"
+            ]
+          }
+        ],
+        "source_urls": [],
+        "found": true
+      },
+      "relations": {
+        "synonyms": [
+          "articulate",
+          "facile",
+          "fluent",
+          "silver",
+          "silver-tongued",
+          "smooth-spoken",
+          "persuasive",
+          "expressive"
+        ],
+        "antonyms": [
+          "inarticulate",
+          "hesitant",
+          "mute"
+        ],
+        "rhymes": [],
+        "associations": [
+          "eir",
+          "orator",
+          "eloquence",
+          "preacher",
+          "persuasive",
+          "forceful",
+          "oratory",
+          "witty"
+        ],
+        "describing_adjectives": [
+          "more",
+          "little",
+          "wondrous",
+          "classic",
+          "lobzang",
+          "the"
+        ]
+      },
+      "hinglish": "Suvaktaa",
+      "hindi_examples": [
+        {
+          "english": "She gave an eloquent speech that moved the entire audience.",
+          "hindi": "उन्होंने एक ओजस्वी भाषण दिया जिसने सभी दर्शकों को भावविभोर कर दिया।",
+          "hinglish": "Unhonne ek ojasvee bhaashan diyaa jisane sabhee darshakon ko bhaavavibhor kar diyaa।"
+        }
+      ],
+      "is_complete": true
+    }
+  }
+]
